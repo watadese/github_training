@@ -2,4 +2,4 @@ streamlit
 tiktoken
 langchain
 openai
-langchain-core
+langchain-corelangchain-openai
